@@ -4,8 +4,8 @@
    Date of Creation: 09-09-2022
    Date of Execution: 09-09-2022
 */
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 main()
 {
 int bt[20], wt[20], tat[20], i, n;
